@@ -1,5 +1,5 @@
 
-
+import Header from "./components/Header/Header"
 
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <h1>Portafolio Juan</h1>
+      <Header/>
     </>
   )
 }

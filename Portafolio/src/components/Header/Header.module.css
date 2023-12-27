@@ -1,0 +1,46 @@
+.container{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    border-radius: 15px;
+    flex-wrap: wrap;
+    gap: 1em;   
+   
+   }
+
+   .content{
+    flex:1;
+   }
+   .imagen{
+    max-width: 12%; /* Ajustando el tamaño máximo de las imágenes */
+    height: 35px;
+    border-radius: 20px;
+    margin: 10px ;
+   }
+
+   h1{
+    font-size: 30px; /* Utilizando unidades de vista (vw) para el tamaño del texto */
+    color: #185e9b;
+
+   }
+
+   h2{
+    font-size: 30px; /* Utilizando unidades de vista (vw) para el tamaño del texto */
+    color: #05853a;
+    text-align: center;
+
+   }
+
+   img{
+    max-width: 20%; /* Ajustando el tamaño máximo de las imágenes */
+    height: 150px;
+    border-radius: 30px;
+    margin: 10px ;
+
+   }
+
+   p {
+    font-size: 3.5vw; /* Utilizando unidades de vista (vw) para el tamaño del texto */
+    color: #c9df21; 
+    margin: 10px 0; /* Añadiendo espacio entre el texto y las imágenes */
+  }
