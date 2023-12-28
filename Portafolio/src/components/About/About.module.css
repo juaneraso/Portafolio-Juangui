@@ -1,0 +1,15 @@
+.container{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    border-radius: 15px;
+    flex-wrap: wrap;
+    gap: 1em;   
+   
+   }
+
+   p {
+    font-size: 30px; /* Utilizando unidades de vista (vw) para el tamaño del texto */
+    color: #142c60; 
+    margin: 10px 0; /* Añadiendo espacio entre el texto y las imágenes */
+  }

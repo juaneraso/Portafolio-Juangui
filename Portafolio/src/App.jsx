@@ -1,6 +1,4 @@
-
-import Header from "./components/Header/Header"
-import About from "./components/about/about"
+import Home from "./views/Home/Home"
 
 
 function App() {
@@ -8,8 +6,7 @@ function App() {
 
   return (
     <>
-      <Header/>
-      <About/>
+      <Home/>
     </>
   )
 }
