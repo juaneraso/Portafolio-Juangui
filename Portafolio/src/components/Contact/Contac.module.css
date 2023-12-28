@@ -1,0 +1,25 @@
+
+.container{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    border-radius: 15px;
+    flex-wrap: wrap;
+    gap: 5em;
+   }
+   
+   .card{
+       border: 1px solid black;
+       width: fit-content;
+       height: fit-content;
+       border-radius: 10px;  
+     
+     }
+   
+     .imagen{
+       max-width: 100%; /* Ajustando el tamaño máximo de las imágenes */
+       height: 200px;
+       border-radius: 10px;
+       margin: 10px ;
+      }
+   
