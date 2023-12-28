@@ -8,7 +8,7 @@ const About = () =>{
       <p>Soy un ingeniero electrónico y desarrollador 
         de software con una amplia gama de habilidades técnicas que abarcan desde la electrónica
         hasta el desarrollo web. Mi pasión por la tecnología me ha llevado a adquirir un conjunto diverso de competencias
-        que me permiten abordar proyectos complejos desde múltiples perspectiva.</p>
+        que me permiten abordar proyectos complejos desde múltiples perspectivas.</p>
 
 
     </div>

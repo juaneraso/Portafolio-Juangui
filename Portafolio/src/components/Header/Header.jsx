@@ -15,7 +15,7 @@ return(
 <div className={style.container}>
   <img src={imagen1} alt="imagen de perfil"/>
   <div className={style.content}>
-  <h1>Juan Guillermo Eraso -- Fullstack Developer - Ingeniero electrónico</h1>
+  <h1>Juan Guillermo Eraso - Fullstack Developer - Electronic Engineer</h1>
   <img className={style.imagen} src={javascript_image} alt="imagen javascript"/>
   <img className={style.imagen} src={react_image} alt="imagen react"/>
   <img className={style.imagen} src={html_image} alt="imagen html"/>
