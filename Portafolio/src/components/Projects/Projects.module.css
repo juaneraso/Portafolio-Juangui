@@ -5,6 +5,7 @@
  border-radius: 15px;
  flex-wrap: wrap;
  gap: 5em;
+ justify-content: center;
 }
 
 .card{
@@ -21,3 +22,8 @@
     border-radius: 10px;
     margin: 10px ;
    }
+ 
+  h1 {
+
+    text-align: center;
+  }
