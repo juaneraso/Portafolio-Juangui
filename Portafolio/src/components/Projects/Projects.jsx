@@ -14,6 +14,7 @@ const Projects = () =>{
           <h1>Pokemon</h1>
         
           <img className={style.imagen} src={pokemon} alt="imagen de pokemon"/>
+          <button>Deploy</button>
 
         </div>  
 
