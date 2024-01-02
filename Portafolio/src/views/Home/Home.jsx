@@ -9,7 +9,7 @@ import style from "../Home/Home.module.css";
 
 
 const Home = ()=>{
-  console.log("HOla estoy aqui");
+
     return(
       <div className={style.homeStyle}>   
     
