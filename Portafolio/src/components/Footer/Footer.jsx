@@ -4,7 +4,7 @@ const Footer = () =>{
 
   return(
     <div>
-   <h1>Juan Guillermo - 2023 </h1>
+   <h1>Juan Guillermo - 2024 </h1>
 
     </div>
 

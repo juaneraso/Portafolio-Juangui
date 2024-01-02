@@ -14,7 +14,9 @@ const Home = ()=>{
     
        <Header/>
        <About/>
+       <h1>Projects</h1> 
        <Projects/>
+       <h1>Contact Me</h1> 
        <Contact/>
        <Footer/>    
        </div>

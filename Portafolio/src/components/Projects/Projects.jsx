@@ -12,6 +12,8 @@ const Projects = () =>{
 
   return (
      <div className={style.container}>
+      
+
         <div className={style.card}>
           <h1>Pokemon</h1>
         

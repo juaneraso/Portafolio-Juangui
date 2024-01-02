@@ -4,11 +4,8 @@ const About = () =>{
  return (
     <div className={style.container}>
     
-     <p>¡Bienvenido a mi portafolio! </p>
-      <p>Soy un ingeniero electrónico y desarrollador 
-        de software con una amplia gama de habilidades técnicas que abarcan desde la electrónica
-        hasta el desarrollo web. Mi pasión por la tecnología me ha llevado a adquirir un conjunto diverso de competencias
-        que me permiten abordar proyectos complejos desde múltiples perspectivas.</p>
+      <p>Welcome to my portfolio!</p>
+      <p>I am an electronic engineer and software developer with a wide range of technical skills ranging from electronics to web development. My passion for technology has led me to acquire a diverse set of competencies that allow me to approach complex projects from multiple perspectives.</p>
 
 
     </div>

@@ -13,6 +13,8 @@ const Contact  = () =>{
 
     return(
         <div className={style.container}>
+
+      
         <div className={style.card}>        
 
          <a href={whatsapp_url} target="_blank" rel="noopener noreferrer"><img className={style.imagen} src={whatsapp} alt="imagen_whatsapp"/></a>
