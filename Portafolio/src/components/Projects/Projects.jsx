@@ -4,10 +4,10 @@ import style from "../Projects/Projects.module.css";
 
 const Projects = () =>{
 
-  const pokemon = "https://shorturl.at/bck13";
-  const flipante = "https://shorturl.at/cCOT3";
-  const rick = "https://shorturl.at/tBQUZ";
-  const crud = "https://shorturl.at/bgHV1";
+   const pokemon = "https://shorturl.at/kzACE";
+   const flipante = "https://shorturl.at/psuAM";
+   const rick = "https://shorturl.at/diyO5";
+   const crud = "https://shorturl.at/zFY35";
  
 
   return (
