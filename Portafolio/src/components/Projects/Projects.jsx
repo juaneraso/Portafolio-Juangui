@@ -76,10 +76,10 @@ const Projects = () =>{
             <button className={style.centeredButton}>Deploy</button>
             </Link>
             
-            <Link to = "https://github.com/juaneraso/Backend-Juangui" target="_blank" rel="noopener noreferrer">
+            {/* <Link to = "https://github.com/juaneraso/Backend-Juangui" target="_blank" rel="noopener noreferrer">
                <button className={style.centeredButton}>GitHub</button>
             </Link> 
-           </div>
+           </div> */}
 
         </div>  
              
